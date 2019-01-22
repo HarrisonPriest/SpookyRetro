@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpookyRetro.Plugins", "SpookyRetro.Plugins.csproj", "{98B5FE72-D176-7CDA-BA16-6FD2B7F95585}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpookyRetro", "SpookyRetro.csproj", "{52CC3E0F-EBDC-5D07-E2FF-FBF88F7409A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpookyRetro.Editor.Plugins", "SpookyRetro.Editor.Plugins.csproj", "{4451A3F0-4B02-26D1-125F-3C45BE38F06A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpookyRetro.Editor", "SpookyRetro.Editor.csproj", "{ABD4B8E2-75F3-EBCB-8EC7-711B251A9889}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98B5FE72-D176-7CDA-BA16-6FD2B7F95585}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98B5FE72-D176-7CDA-BA16-6FD2B7F95585}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98B5FE72-D176-7CDA-BA16-6FD2B7F95585}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98B5FE72-D176-7CDA-BA16-6FD2B7F95585}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52CC3E0F-EBDC-5D07-E2FF-FBF88F7409A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52CC3E0F-EBDC-5D07-E2FF-FBF88F7409A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52CC3E0F-EBDC-5D07-E2FF-FBF88F7409A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52CC3E0F-EBDC-5D07-E2FF-FBF88F7409A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4451A3F0-4B02-26D1-125F-3C45BE38F06A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4451A3F0-4B02-26D1-125F-3C45BE38F06A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4451A3F0-4B02-26D1-125F-3C45BE38F06A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4451A3F0-4B02-26D1-125F-3C45BE38F06A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABD4B8E2-75F3-EBCB-8EC7-711B251A9889}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABD4B8E2-75F3-EBCB-8EC7-711B251A9889}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABD4B8E2-75F3-EBCB-8EC7-711B251A9889}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABD4B8E2-75F3-EBCB-8EC7-711B251A9889}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
